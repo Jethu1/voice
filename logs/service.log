@@ -1,0 +1,11 @@
+2017-07-18 11:19:46.890 DEBUG demo5_big.LuceneUtil 80 createIndex -- 索引结束,共有索引{}个1
+2017-07-18 11:28:22.241 DEBUG demo5_big.LuceneUtil 80 createIndex -- 索引结束,共有索引{}个2
+2017-07-18 11:28:29.471 DEBUG demo5_big.LuceneUtil 80 createIndex -- 索引结束,共有索引{}个3
+2017-07-18 11:28:33.948 DEBUG demo5_big.LuceneUtil 80 createIndex -- 索引结束,共有索引{}个4
+2017-07-18 11:28:37.969 DEBUG demo5_big.LuceneUtil 80 createIndex -- 索引结束,共有索引{}个5
+2017-07-18 11:28:42.517 DEBUG demo5_big.LuceneUtil 80 createIndex -- 索引结束,共有索引{}个6
+2017-07-18 11:28:43.506 DEBUG demo5_big.LuceneUtil 80 createIndex -- 索引结束,共有索引{}个7
+2017-07-18 11:28:44.527 DEBUG demo5_big.LuceneUtil 80 createIndex -- 索引结束,共有索引{}个8
+2017-07-18 11:28:49.003 DEBUG demo5_big.LuceneUtil 80 createIndex -- 索引结束,共有索引{}个9
+2017-07-18 11:28:53.499 DEBUG demo5_big.LuceneUtil 80 createIndex -- 索引结束,共有索引{}个10
+2017-07-18 11:28:58.329 DEBUG demo5_big.LuceneUtil 80 createIndex -- 索引结束,共有索引{}个11
